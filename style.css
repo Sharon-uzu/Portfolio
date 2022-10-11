@@ -234,7 +234,7 @@ width: 45%;
 }
 .serv .contnt .second li{
     color: #5e5e5e;
-    margin-bottom:.4rem;
+    margin-bottom:.6rem;
 }
 .serv .contnt .second .two{
     margin-top: 3rem;
@@ -255,7 +255,7 @@ width: 45%;
 
 }
 .serv li{
-    
+    list-style:none;
 }
 
 .serv h2{
